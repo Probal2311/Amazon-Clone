@@ -10,3 +10,7 @@ Here’s a preview of how the Amazon clone looks:
 ![image](https://github.com/user-attachments/assets/632ea8b9-403d-4ece-b223-16f73fc20406)
 ![image](https://github.com/user-attachments/assets/e36d0a36-0b39-4072-822c-09bcee826b16)
 
+## Screen Record
+
+https://github.com/user-attachments/assets/60c27abf-ff29-473a-8d7b-7d09fa9b657c
+
